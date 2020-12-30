@@ -1,3 +1,3 @@
 # front-end-development
 Introduction to Front-End Development
-# GitHub Pages: https://vladonex.github.io/front-end-development/
+# GitHub Pages: https://dabaliu.github.io/front-end-development/
