@@ -1,0 +1,36 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+}
+header {
+    border-bottom: 1px solid gray;
+    padding: 8px 0 8px 0;
+}
+nav {
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid gray;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: gray;
+    font-family: sans-serif;
+}
+section {
+    float: left;
+    width: 600px;
+    padding: 0 8px 0 0;
+    border-right: 1px solid gray;
+    box-sizing: border-box;
+}
+aside {
+    box-sizing: border-box;
+    float: left;
+    width: 360px;
+    padding: 0 0 0 8px;
+}
+footer {
+    padding: 16px 0 16px 0;
+    border-top: 1px solid gray;
+    clear: left;
+}

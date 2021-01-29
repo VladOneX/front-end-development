@@ -1,0 +1,21 @@
+div {
+    width: 180px;
+    height: 100px;
+    margin: 20px;
+}
+
+#box1 {
+    background-color: #F0C419;
+    position: relative;
+    top: 70px;
+    left: 50px;
+
+    z-index: 2;
+}
+
+#box2 {
+    background-color: #ED7161;
+    position: relative;
+
+    z-index: 1;
+}

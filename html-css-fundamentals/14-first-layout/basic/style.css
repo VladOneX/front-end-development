@@ -1,0 +1,22 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+}
+header {
+    border-bottom: 1px solid gray;
+    padding: 8px 0 8px 0;
+}
+nav {
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid gray;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: gray;
+    font-family: sans-serif;
+}
+footer {
+    padding: 16px 0 16px 0;
+    border-top: 1px solid gray;
+}
